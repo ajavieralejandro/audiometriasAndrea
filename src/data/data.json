@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Audiometrías y Audífonos",
+    "paragraph": "Ofrecemos servicios de Audiometrías para el carnet de conducir y venta de audífonos en Bahía Blanca"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -19,51 +19,34 @@
     ]
   },
   "Gallery": [
+
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/2888a88a-36e4-4909-03bc-7a5c0f295600/public",
+      "smallImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/2888a88a-36e4-4909-03bc-7a5c0f295600/public"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/9e91715f-038e-4f3e-6499-fcb9ea1f8d00/public",
+      "smallImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/9e91715f-038e-4f3e-6499-fcb9ea1f8d00/public"
+    },
+  
+    {
+      "title": "Project Title",
+      "largeImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/0147fd73-a2b4-44a4-5fb9-dfc3eaae5e00/public",
+      "smallImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/0147fd73-a2b4-44a4-5fb9-dfc3eaae5e00/public"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/7bb2530f-d386-4c56-81c7-8c7930e80000/public",
+      "smallImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/7bb2530f-d386-4c56-81c7-8c7930e80000/public"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "largeImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/858ef025-8165-418b-350f-ede8f052c700/public",
+      "smallImage": "https://imagedelivery.net/rXQkQjLMcsIgr9J-xeKCWA/858ef025-8165-418b-350f-ede8f052c700/public"
     }
+   
   ],
   "Services": [
     {
