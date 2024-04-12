@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae42ac5f.css",
-    "main.js": "/static/js/main.3591470b.js",
-    "index.html": "/index.html",
-    "main.ae42ac5f.css.map": "/static/css/main.ae42ac5f.css.map",
-    "main.3591470b.js.map": "/static/js/main.3591470b.js.map"
+    "main.css": "/audiometriasAndrea/static/css/main.ae42ac5f.css",
+    "main.js": "/audiometriasAndrea/static/js/main.325d0fea.js",
+    "index.html": "/audiometriasAndrea/index.html",
+    "main.ae42ac5f.css.map": "/audiometriasAndrea/static/css/main.ae42ac5f.css.map",
+    "main.325d0fea.js.map": "/audiometriasAndrea/static/js/main.325d0fea.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.3591470b.js"
+    "static/js/main.325d0fea.js"
   ]
 }
