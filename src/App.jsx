@@ -25,7 +25,6 @@ const App = () => {
 
   return (
     <div className="bg-secondary">
-      <Navigation />
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
